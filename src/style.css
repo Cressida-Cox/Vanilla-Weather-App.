@@ -17,9 +17,10 @@ body {
 }
 
 .weather-app {
+  margin: 0 auto;
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
   padding: 20px;
-  border: 1px solid #dadde1;
-  border-radius: 5px;
 }
 
 h1 {
