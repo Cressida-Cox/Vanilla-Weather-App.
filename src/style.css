@@ -95,3 +95,8 @@ li:first-letter {
 .weather-forecast-temperatures {
   font-size: 13px;
 }
+
+.github {
+  margin-top: 5px;
+  color: #fff;
+}
